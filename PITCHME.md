@@ -36,10 +36,8 @@
 ![GMJ](./50469845-a0bcb200-09f1-11e9-9e3c-69b169c52d10.jpg)
 
 ---
-<style>
-  td{
-    font-size : 6px
-  }
+<style type="text/css">
+  td {font-size:9}
 </style>
 1주차 Reflection ] Design Thinking 방법론
 
