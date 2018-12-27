@@ -13,10 +13,10 @@
 ---
 이름 구건  
 별명  
-사진  
+![img] (img/KakaoTalk_Photo_2018-12-02-23-57-31.jpeg)
 성격 계획적  
 
----?img/KakaoTalk_Photo_2018-12-02-23-57-31.jpeg
+---?image=img/KakaoTalk_Photo_2018-12-02-23-57-31.jpeg
 이름 장한별  
 별명 지스타   
 성격 열정적  
