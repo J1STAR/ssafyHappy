@@ -36,6 +36,8 @@
 ![GMJ](./50469845-a0bcb200-09f1-11e9-9e3c-69b169c52d10.jpg)
 
 ---
+<style>
+</style>
 1주차 Reflection ] Design Thinking 방법론
 
 |단계|정의|활용TOOL|
