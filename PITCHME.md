@@ -19,7 +19,7 @@
 별명 명필  
 성격 계획적  
 연말계획 - 독서  
-![Image](https://postfiles.pstatic.net/20110502_187/runtokhs_13043183907707cRPY_JPEG/2011-05-02_15%3B38%3B38.jpg?type=w2)  
+![Image](./t3.jpg)  
 
 ---
 이름 장한별  
