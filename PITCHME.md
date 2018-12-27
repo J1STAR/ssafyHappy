@@ -38,7 +38,7 @@
 ---
 1주차 Reflection ] Design Thinking 방법론
 
-![asd](./스크린샷 2018-12-27 오후 5.14.34.png)
+![asd](./t1.png)
 
 ---
 1주차 Reflection ] Design Thinking 방법론
