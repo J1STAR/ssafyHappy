@@ -1,4 +1,4 @@
----?image=/img/pencils.jpg @title[About Templates]
+---?image=img/pencils.jpg @title[About Templates]
 
 @color[black] SSAFY HAPPY
 
@@ -15,7 +15,7 @@
 @fatwitter 
 Graphic Designer @snapend
 
-@snap[midpoint about-team-pic about-team-pic-center] ![J1STAR](/img/KakaoTalk_Photo_2018-12-02-23-57-31.jpeg) @snapend
+@snap[midpoint about-team-pic about-team-pic-center] ?image=img/KakaoTalk_Photo_2018-12-02-23-57-31.jpeg @snapend
 
 @snap[south text-06] @color[#4487F2](Abby Bauer) 
 
