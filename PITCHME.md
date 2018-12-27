@@ -1,8 +1,6 @@
 ---?image=/img/pencils.jpg @title[About Templates]
 
-@color[black](About
-Slide Templates)
-@fa[arrow-down text-black]
+@color[black] SSAFY HAPPY
 
 @snap[south docslink span-50] The Template Docs @snapend
 
