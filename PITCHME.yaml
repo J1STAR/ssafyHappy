@@ -25,7 +25,7 @@ theme-override : css/PITCHME.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : /img/logo.png
+logo : img/logo.png
 logo-position : top-left
 
 #
