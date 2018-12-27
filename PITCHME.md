@@ -7,7 +7,7 @@
 ---
 이름 최현준  
 별명 첸준  
-![CHJ](https://github.com/J1STAR/SEOUL-SSAFY-SSAFYHAPPY/blob/master/%ED%99%8D%EB%8C%80%EB%A7%88%ED%81%AC.PNG)
+![CHJ](./%ED%99%8D%EB%8C%80%EB%A7%88%ED%81%AC.PNG)
 성격 좋음  
 
 ---
