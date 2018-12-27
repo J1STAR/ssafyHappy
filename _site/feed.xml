@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hemang Kumar</title>
-    <description>&lt;h3&gt;Hello, world!&lt;/h3&gt;&lt;h1&gt;DevJournal&lt;/h1&gt;&lt;h3&gt;Awesome Jekyll Theme for Developers!&lt;/h3&gt;Hope you like it!</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Dec 2018 21:35:47 +0900</pubDate>
-    <lastBuildDate>Thu, 27 Dec 2018 21:35:47 +0900</lastBuildDate>
+    <title>J1STAR</title>
+    <description>&lt;h3&gt;Hello, SSAFY!&lt;/h3&gt;&lt;h1&gt;SSAFY.DevJournal&lt;/h1&gt;&lt;h3&gt;Awesome SSAFY.HAPPY Post for Developers!&lt;/h3&gt;Hope you like it!</description>
+    <link>http://localhost:4000/ssafyHappy/</link>
+    <atom:link href="http://localhost:4000/ssafyHappy/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 27 Dec 2018 22:06:07 +0900</pubDate>
+    <lastBuildDate>Thu, 27 Dec 2018 22:06:07 +0900</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Fri, 13 May 2016 01:31:43 +0900</pubDate>
-        <link>http://localhost:4000/jekyll/update/2016/05/12/welcome-to-jekyll3.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/05/12/welcome-to-jekyll3.html</guid>
+        <link>http://localhost:4000/ssafyHappy/jekyll/update/2016/05/12/welcome-to-jekyll3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ssafyHappy/jekyll/update/2016/05/12/welcome-to-jekyll3.html</guid>
         
         
         <category>jekyll</category>
@@ -55,8 +55,8 @@
 
 </description>
         <pubDate>Fri, 13 May 2016 01:31:43 +0900</pubDate>
-        <link>http://localhost:4000/jekyll/update/2016/05/12/welcome-to-jekyll2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/05/12/welcome-to-jekyll2.html</guid>
+        <link>http://localhost:4000/ssafyHappy/jekyll/update/2016/05/12/welcome-to-jekyll2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ssafyHappy/jekyll/update/2016/05/12/welcome-to-jekyll2.html</guid>
         
         
         <category>jekyll</category>
@@ -83,8 +83,8 @@
 
 </description>
         <pubDate>Fri, 13 May 2016 01:31:43 +0900</pubDate>
-        <link>http://localhost:4000/jekyll/update/2016/05/12/welcome-to-jekyll11.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/05/12/welcome-to-jekyll11.html</guid>
+        <link>http://localhost:4000/ssafyHappy/jekyll/update/2016/05/12/welcome-to-jekyll11.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ssafyHappy/jekyll/update/2016/05/12/welcome-to-jekyll11.html</guid>
         
         
         <category>jekyll</category>
@@ -111,8 +111,8 @@
 
 </description>
         <pubDate>Fri, 13 May 2016 01:31:43 +0900</pubDate>
-        <link>http://localhost:4000/jekyll/update/2016/05/12/welcome-to-jekyll10.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/05/12/welcome-to-jekyll10.html</guid>
+        <link>http://localhost:4000/ssafyHappy/jekyll/update/2016/05/12/welcome-to-jekyll10.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ssafyHappy/jekyll/update/2016/05/12/welcome-to-jekyll10.html</guid>
         
         
         <category>jekyll</category>
@@ -139,8 +139,8 @@
 
 </description>
         <pubDate>Fri, 13 May 2016 01:31:43 +0900</pubDate>
-        <link>http://localhost:4000/jekyll/update/2016/05/12/welcome-to-jekyll1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/05/12/welcome-to-jekyll1.html</guid>
+        <link>http://localhost:4000/ssafyHappy/jekyll/update/2016/05/12/welcome-to-jekyll1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ssafyHappy/jekyll/update/2016/05/12/welcome-to-jekyll1.html</guid>
         
         
         <category>jekyll</category>
@@ -167,8 +167,8 @@
 
 </description>
         <pubDate>Fri, 13 May 2016 01:31:43 +0900</pubDate>
-        <link>http://localhost:4000/jekyll/update/2016/05/12/welcome-to-jekyll0.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/05/12/welcome-to-jekyll0.html</guid>
+        <link>http://localhost:4000/ssafyHappy/jekyll/update/2016/05/12/welcome-to-jekyll0.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ssafyHappy/jekyll/update/2016/05/12/welcome-to-jekyll0.html</guid>
         
         
         <category>jekyll</category>
@@ -195,8 +195,8 @@
 
 </description>
         <pubDate>Fri, 13 May 2016 01:31:43 +0900</pubDate>
-        <link>http://localhost:4000/jekyll/update/2016/05/12/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/05/12/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/ssafyHappy/jekyll/update/2016/05/12/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ssafyHappy/jekyll/update/2016/05/12/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
