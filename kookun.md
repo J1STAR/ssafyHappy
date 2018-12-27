@@ -3,15 +3,17 @@
 안녕하세요, 반갑습니다.
 ---
 # 내소개
+
 이름 : 구건
 
 별명 : 
 
 셩격 : 계획적, 소극적
+
 사진 :
 	
 	
-![SSAFY Image](https://postfiles.pstatic.net/20110502_187/runtokhs_13043183907707cRPY_JPEG/2011-05-02_15%3B38%3B38.jpg?type=w2)
+![Image](https://postfiles.pstatic.net/20110502_187/runtokhs_13043183907707cRPY_JPEG/2011-05-02_15%3B38%3B38.jpg?type=w2)
 
 
 
