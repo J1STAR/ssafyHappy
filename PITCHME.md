@@ -15,7 +15,7 @@
 
 별명  
 
-![Image](./img/KakaoTalk_Photo_2018-12-02-23-57-31.jpeg)
+![Image](홍대마크.png)
 
 성격 계획적  
 
