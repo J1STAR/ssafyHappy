@@ -37,6 +37,9 @@
 
 ---
 <style>
+  td{
+    font-size : 6px
+  }
 </style>
 1주차 Reflection ] Design Thinking 방법론
 
