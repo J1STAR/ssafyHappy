@@ -16,10 +16,10 @@
 
 ---
 이름 구건  
-별명  
+별명 명필  
 성격 계획적  
 연말계획 - 독서  
-![11](https://user-images.githubusercontent.com/25609126/50469612-87673600-09f0-11e9-8e82-5e3018385dff.jpg)  
+![Image](https://postfiles.pstatic.net/20110502_187/runtokhs_13043183907707cRPY_JPEG/2011-05-02_15%3B38%3B38.jpg?type=w2)  
 
 ---
 이름 장한별  
