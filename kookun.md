@@ -10,7 +10,7 @@
 사진 :
 	
 	
-	![SSAFY Image](https://edu.ssafy.com/asset/images/logo.png)
+![SSAFY Image](https://edu.ssafy.com/asset/images/logo.png)
 
 
 
