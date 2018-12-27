@@ -25,5 +25,5 @@
 ---
 이름 고민재  
 별명 고라니  
-![GMJ]
+![GMJ](https://user-images.githubusercontent.com/25609126/50469845-a0bcb200-09f1-11e9-9e3c-69b169c52d10.jpg)  
 성격 
