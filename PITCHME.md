@@ -12,8 +12,11 @@
 
 ---
 이름 구건  
+
 별명  
-![Image](https://postfiles.pstatic.net/20110502_187/runtokhs_13043183907707cRPY_JPEG/2011-05-02_15%3B38%3B38.jpg?type=w2)
+
+![Image](https://postfiles.pstatic.net/20110502_187/runtokhs_13043183907707cRPY_JPEG/2011-05-02_15%3B38%3B38.jpg?type=w2)  
+
 성격 계획적  
 
 ---?image=img/KakaoTalk_Photo_2018-12-02-23-57-31.jpeg
