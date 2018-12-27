@@ -19,7 +19,7 @@ theme : simple
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-theme-override : /css/PITCHME.css
+theme-override : css/PITCHME.css
 
 #
 # Logo Setting
