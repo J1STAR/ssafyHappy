@@ -15,7 +15,7 @@
 
 별명  
 
-![Logo](https://github.com/J1STAR/SEOUL-SSAFY-SSAFYHAPPY/blob/master/%ED%99%8D%EB%8C%80%EB%A7%88%ED%81%AC.PNG)
+![11](https://user-images.githubusercontent.com/25609126/50469612-87673600-09f0-11e9-8e82-5e3018385dff.jpg)
 
 성격 계획적  
 
