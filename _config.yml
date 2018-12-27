@@ -14,8 +14,8 @@ description: "<h3>Hello, SSAFY!</h3><h1>SSAFY.HAPPY DevJournal</h1><h3>Awesome T
 
 
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hemangsk.github.io" # the base hostname & protocol for your site
+baseurl: "/ssafyHappy" # the subpath of your site, e.g. /blog
+url: "http://j1star.github.io" # the base hostname & protocol for your site
 twitter_username: J1STAR
 github_username:  J1STAR
 
