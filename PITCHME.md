@@ -19,9 +19,10 @@
 
 성격 계획적  
 
----?image=img/KakaoTalk_Photo_2018-12-02-23-57-31.jpeg
+---
 이름 장한별  
-별명 지스타   
+별명 지스타
+![J1STAR](https://avatars3.githubusercontent.com/u/8870540?s=460&v=4)
 성격 열정적  
 
 ---
