@@ -5,8 +5,6 @@ date:   2018-12-27 17:18:00 +0900
 categories: ["MacOS","Terminal","github","Jekyll","Markdown"]
 ---
 
-
-
 # Slack Bot과 얼굴인식을 이용한 사용자 출결 챗봇 
 
 # Face Classfication Chatbot
