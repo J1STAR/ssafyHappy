@@ -5,8 +5,8 @@
     <description>&lt;h3&gt;Hello, SSAFY!&lt;/h3&gt;&lt;h1&gt;SSAFY.HAPPY DevJournal&lt;/h1&gt;&lt;h3&gt;Awesome TEAM SSAFY.HAPPY Post for Developers!&lt;/h3&gt;Hope you like it!</description>
     <link>http://localhost:4000/ssafyHappy/</link>
     <atom:link href="http://localhost:4000/ssafyHappy/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Dec 2018 15:01:58 +0900</pubDate>
-    <lastBuildDate>Fri, 28 Dec 2018 15:01:58 +0900</lastBuildDate>
+    <pubDate>Fri, 28 Dec 2018 15:38:19 +0900</pubDate>
+    <lastBuildDate>Fri, 28 Dec 2018 15:38:19 +0900</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -39,31 +39,21 @@
   &lt;li&gt;시스템 설계
     &lt;ul&gt;
       &lt;li&gt;챗봇 작업 선택&lt;/li&gt;
+      &lt;li&gt;사용자 이미지 데이터 수집&lt;/li&gt;
+      &lt;li&gt;사용자 이미지 인식&lt;/li&gt;
+      &lt;li&gt;사용자 정보 출력&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;실행 결과
+    &lt;ul&gt;
+      &lt;li&gt;챗봇 작업 선택&lt;br /&gt;
+ &lt;img src=&quot;https://lh5.googleusercontent.com/cro4znwtgo8pvISFy1TggDZtU9m87YWPpiY9_zXGAww7lUppFu9xqt3NGLDL4DZPoVjuIrNS9LIhata26f0O7cOJ7nMGV2h8JZW5fKHR&quot; alt=&quot;img&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;사용자 이미지 인식&lt;br /&gt;
+ &lt;img src=&quot;https://lh3.googleusercontent.com/TP546LaI93DfsxrXvW-2_x2HruRlwagqpyH65UQMoIa9dd7xOiM5bLb6BRcCJmv53X-bav5c7eKseTFq_FuHNkN4ou-Mj5cdGTB98NkK&quot; alt=&quot;img2&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;사용자 이미지 데이터 수집&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;사용자 이미지 인식&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;사용자 정보 출력&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;실행 결과&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/cro4znwtgo8pvISFy1TggDZtU9m87YWPpiY9_zXGAww7lUppFu9xqt3NGLDL4DZPoVjuIrNS9LIhata26f0O7cOJ7nMGV2h8JZW5fKHR&quot; alt=&quot;img&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;챗봇 작업 선택&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
         <pubDate>Thu, 27 Dec 2018 17:18:00 +0900</pubDate>
         <link>http://localhost:4000/ssafyHappy/macos/terminal/github/jekyll/markdown/2018/12/27/SLACK_CHATBOT_%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%B8%EC%8B%9D_%EC%B6%9C%EA%B2%B0.html</link>
