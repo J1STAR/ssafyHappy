@@ -7,7 +7,6 @@ categories: ["MacOS","Terminal","github","Jekyll","Markdown"]
 
 
 
-
 # Slack Bot과 얼굴인식을 이용한 사용자 출결 챗봇 
 
 # Face Classfication Chatbot
