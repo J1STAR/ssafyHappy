@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "\[ 2018 \\ 12 \\ 27 TEAM SSAFY.HAPPY\] TEAM SSAFY.HAPPY"
+title:  "[ 2018 \ 12 \ 27 TEAM SSAFY.HAPPY] TEAM SSAFY.HAPPY"
 date:   2018-12-28 17:09:00 +0900
 categories: ["MacOS","Terminal","github","Jekyll","Markdown"]
 ---
