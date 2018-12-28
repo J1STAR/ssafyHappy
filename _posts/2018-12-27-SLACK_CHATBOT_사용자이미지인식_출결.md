@@ -1,10 +1,8 @@
 ---
-
 layout: post
 title:  "\[ 2018 \\ 12 \\ 27 SLACK CHATBOT\]  Slack Bot과 얼굴인식을 이용한 사용자 출결 챗봇 설계"
-date:   2018-12-27 21:18:00 +0900
-categories: ["MacOS","Terminal","github","Jekyll","Markdown","Python","SLACK","CHATBOT"]
-
+date:   2018-12-27 17:18:00 +0900
+categories: ["MacOS","Terminal","github","Jekyll","Markdown"]
 ---
 
 
