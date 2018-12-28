@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta content="TEAM SSAFY.HAPPY" property="og:site_name">
 
-  <meta content="Ya I know you loved this theme!" property="og:title">
+  <meta content="[ Day 2 ] 실습 1" property="og:title">
 
 
   <meta content="article" property="og:type">
@@ -16,10 +16,10 @@
   <meta content="<h3>Hello, SSAFY!</h3><h1>SSAFY.HAPPY DevJournal</h1><h3>Awesome TEAM SSAFY.HAPPY Post for Developers!</h3>Hope you like it!" property="og:description">
 
 
-  <meta content="http://localhost:4000/jekyll/update/2016/05/12/welcome-to-jekyll11.html" property="og:url">
+  <meta content="http://localhost:4000/macos/terminal/github/jekyll/markdown/python/algorithm/2018/12/18/Day-2-%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8-1.html" property="og:url">
 
 
-  <meta content="2016-05-13T01:31:43+09:00" property="article:published_time">
+  <meta content="2018-12-18T20:24:00+09:00" property="article:published_time">
   <meta content="http://localhost:4000/about/" property="article:author">
 
 
@@ -27,17 +27,17 @@
 
 
   
-  <meta content="jekyll" property="article:section">
+  <meta content="MacOS" property="article:section">
   
 
 
   
 
-  <title>Ya I know you loved this theme!</title>
-  <meta name="description" content="You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different wa...">
+  <title>[ Day 2 ] 실습 1</title>
+  <meta name="description" content="[실습 1] 문장의 단어를 하나씩 가져오기">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/ssafyHappy/css/main.css">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
   <link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
@@ -52,8 +52,8 @@
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-hQpvDQiCJaD2H465dQfA717v7lu5qHWtDbWNPvaTJ0ID5xnPUlVXnKzq7b8YUkbN" crossorigin="anonymous">
-  <link rel="canonical" href="http://localhost:4000/jekyll/update/2016/05/12/welcome-to-jekyll11.html">
-  <link rel="alternate" type="application/rss+xml" title="TEAM SSAFY.HAPPY" href="http://localhost:4000/feed.xml">
+  <link rel="canonical" href="http://localhost:4000/ssafyHappy/macos/terminal/github/jekyll/markdown/python/algorithm/2018/12/18/Day-2-%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8-1.html">
+  <link rel="alternate" type="application/rss+xml" title="TEAM SSAFY.HAPPY" href="http://localhost:4000/ssafyHappy/feed.xml">
 </head>
 
 
@@ -72,7 +72,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/">TEAM SSAFY.HAPPY</a>
+      <a class="navbar-brand" href="/ssafyHappy/">TEAM SSAFY.HAPPY</a>
     </div>
 
 
@@ -80,13 +80,13 @@
       <ul class="nav navbar-nav">
         
         
-        <li><a href="/about/">About</a></li>
+        <li><a href="/ssafyHappy/about/">About</a></li>
 
         
 
         
         
-        <li><a href="/download/">Download</a></li>
+        <li><a href="/ssafyHappy/download/">Download</a></li>
 
         
 
@@ -117,8 +117,8 @@
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <div class="jumbotron">
     <div class="container">
-      <h1 class="post-title-main" itemprop="name headline">Ya I know you loved this theme!</h1>
-      <p class="post-meta"><time datetime="2016-05-13T01:31:43+09:00" itemprop="datePublished">May 12, 2016</time></p>
+      <h1 class="post-title-main" itemprop="name headline">[ Day 2 ] 실습 1</h1>
+      <p class="post-meta"><time datetime="2018-12-18T20:24:00+09:00" itemprop="datePublished">Dec 18, 2018</time></p>
       
     </div>
 
@@ -126,20 +126,39 @@
 
 
   <div class="post-content container" itemprop="articleBody">
-    <p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+    <h4 id="실습-1-문장의-단어를-하나씩-가져오기">[실습 1] 문장의 단어를 하나씩 가져오기</h4>
 
-<p>To add new posts, simply add a file in the <code class="highlighter-rouge">_posts</code> directory that follows the convention <code class="highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 트럼프 대통령의 1월 1~3일 트윗을 각각 리스트의 원소로 저장합니다.</span>
+<span class="n">trump_tweets</span> <span class="o">=</span> <span class="p">[</span>
+    <span class="s">'Will be leaving Florida for Washington (D.C.) today at 4:00 P.M. Much work to be done, but it will be a great New Year!'</span><span class="p">,</span>
+    <span class="s">'Companies are giving big bonuses to their workers because of the Tax Cut Bill. Really great!'</span><span class="p">,</span>
+    <span class="s">'MAKE AMERICA GREAT AGAIN!'</span>
+<span class="p">]</span>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<span class="k">def</span> <span class="nf">date_tweet</span><span class="p">(</span><span class="n">tweet</span><span class="p">):</span>
+<span class="s">'</span><span class="err">
+</span><span class="s">    트럼프 대통령의 트윗을 트윗 일자와 함께 출력합니다.</span><span class="err">
+</span><span class="s">'</span>
+    
+    <span class="c"># index에 0~2을 차례대로 저장하여 반복문을 실행합니다.</span>
+    <span class="k">for</span> <span class="n">index</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">tweet</span><span class="p">)):</span>
+        <span class="c">#print('2018년 1월 ' + str(index+1) + '일: ' + tweet[index])</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">'2018년 1월 </span><span class="si">%</span><span class="s">d일: '</span><span class="o">%</span><span class="p">(</span><span class="n">index</span><span class="o">+</span><span class="mi">1</span><span class="p">),</span> <span class="n">tweet</span><span class="p">[</span><span class="n">index</span><span class="p">])</span>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="http://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
-
+<span class="c"># 실행 결과를 확인하기 위한 코드입니다.</span>
+<span class="n">date_tweet</span><span class="p">(</span><span class="n">trump_tweets</span><span class="p">)</span>
+</code></pre></div></div>
+<ol>
+  <li><strong>trump_tweets</strong> String 요소를 가진 List</li>
+  <li><strong>date_tweet(tweet)</strong><br />
+ 반복문을 통하여 tweet 파라미터에서 String 요소를 각각 출력하는 메소드
+    <ul>
+      <li>tweet 파라미터의 크기만큼 for문 반복</li>
+      <li>index는 0부터 len(tweet) 미만까지</li>
+      <li>문장 출력 시, index+1 및 tweet[index] 출력</li>
+    </ul>
+  </li>
+</ol>
 
   </div>
 
