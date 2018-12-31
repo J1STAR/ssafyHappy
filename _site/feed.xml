@@ -5,9 +5,31 @@
     <description>&lt;h3&gt;Hello, SSAFY!&lt;/h3&gt;&lt;h1&gt;SSAFY.HAPPY DevJournal&lt;/h1&gt;&lt;h3&gt;Awesome TEAM SSAFY.HAPPY Post for Developers!&lt;/h3&gt;Hope you like it!</description>
     <link>http://localhost:4000/ssafyHappy/</link>
     <atom:link href="http://localhost:4000/ssafyHappy/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Dec 2018 15:57:34 +0900</pubDate>
-    <lastBuildDate>Fri, 28 Dec 2018 15:57:34 +0900</lastBuildDate>
+    <pubDate>Mon, 31 Dec 2018 13:44:15 +0900</pubDate>
+    <lastBuildDate>Mon, 31 Dec 2018 13:44:15 +0900</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>[ 2018  12  27 TEAM SSAFY.HAPPY ] TEAM SSAFY.HAPPY</title>
+        <description>&lt;h1 id=&quot;10반_gitfitch&quot;&gt;&lt;strong&gt;10반_GITFITCH&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;[https://gitpitch.com/J1STAR/SEOUL-SSAFY-SSAFYHAPPY]&lt;/p&gt;
+</description>
+        <pubDate>Fri, 28 Dec 2018 17:09:00 +0900</pubDate>
+        <link>http://localhost:4000/ssafyHappy/macos/terminal/github/jekyll/markdown/2018/12/28/SSAFYHAPPY_GITFITCH.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ssafyHappy/macos/terminal/github/jekyll/markdown/2018/12/28/SSAFYHAPPY_GITFITCH.html</guid>
+        
+        
+        <category>MacOS</category>
+        
+        <category>Terminal</category>
+        
+        <category>github</category>
+        
+        <category>Jekyll</category>
+        
+        <category>Markdown</category>
+        
+      </item>
     
       <item>
         <title>[ 2018  12  27 SLACK CHATBOT ]  Slack Bot과 얼굴인식을 이용한 사용자 출결 챗봇 설계</title>
