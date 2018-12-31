@@ -278,3 +278,6 @@ code {
 
 .rel hover {
   opacity: 1; }
+
+.post-content > container img {
+  width: 100%; }
