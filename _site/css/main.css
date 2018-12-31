@@ -271,9 +271,8 @@ code {
   text-align: center; }
 
 .rel {
-  width: 200px;
+  width: 25%;
   display: inline-block;
-  padding: 5px;
   opacity: 0.8; }
 
 .rel:hover {
