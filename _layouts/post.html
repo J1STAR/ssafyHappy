@@ -27,10 +27,8 @@ layout: default
 
 <div class="post-content container" itemprop="articleBody">
   {{ content }}
-</div>
 
-
-<div class="rect">
+  <div class="rect">
 
     {% assign maxRelated = 4 %}
     {% assign minCommonTags =  1 %}
@@ -68,5 +66,8 @@ layout: default
       {% endif %}
     {% endfor %}
   </div>
+
+
+</div>
 
 </article>
