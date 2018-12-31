@@ -21,4 +21,5 @@ github_username:  J1STAR
 
 # Build settings
 markdown: kramdown
+timezone: Asia/Seoul
 future: true
