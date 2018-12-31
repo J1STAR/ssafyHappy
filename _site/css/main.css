@@ -267,7 +267,8 @@ code {
 .rect {
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
-  margin: 0 auto; }
+  margin: 0 auto;
+  text-align: center; }
 
 .rel {
   width: 200px;
