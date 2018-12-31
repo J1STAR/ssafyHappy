@@ -265,12 +265,14 @@ code {
     color: #099; }
 
 .rect {
+  position: absolute;
+  width: 100%;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
-  margin: 0 auto;
   text-align: center;
-  overflow: hidden;
-  vertical-align: middle; }
+  left: 50%;
+  bottom: 60px;
+  transform: translate(-50%, -50%); }
 
 .rel {
   width: 25%;
@@ -280,6 +282,10 @@ code {
 
 .rel:hover {
   opacity: 1; }
+
+.post {
+  display: block;
+  position: relative; }
 
 .post-content.container img {
   width: 100%; }
