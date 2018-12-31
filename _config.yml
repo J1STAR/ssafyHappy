@@ -21,3 +21,4 @@ github_username:  J1STAR
 
 # Build settings
 markdown: kramdown
+future: true
