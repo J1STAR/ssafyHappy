@@ -24,7 +24,7 @@ layout: default
     <div class="posted">
       posted on
       <span class="posted-on">
-	{{ post.date | date: "%Y년 %m월 %d일 %H : %M : %S," }}
+	{{ post.date | date: "%Y년 %m월 %d일 %H:%M:%S," }}
 	{% assign dayOfWeek = post.date | date: "%A" %}
 	{% case dayOfWeek %}
 	  {% when "Monday" %}월요일
