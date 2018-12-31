@@ -202,7 +202,6 @@ $on-laptop:        800px;
 .rect {
     border-top: 3px solid #333;
     border-bottom: 3px solid #333;
-    padding-top: 15px;
     margin:0 auto;
 }
 
@@ -217,6 +216,6 @@ $on-laptop:        800px;
     opacity: 1;    
 }
 
-.post-content .container img{
+.post-content.container > img{
     width : 100%;
 }
