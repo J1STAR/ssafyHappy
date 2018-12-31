@@ -5,18 +5,19 @@
     <description>&lt;h3&gt;Hello, SSAFY!&lt;/h3&gt;&lt;h1&gt;SSAFY.HAPPY DevJournal&lt;/h1&gt;&lt;h3&gt;Awesome TEAM SSAFY.HAPPY Post for Developers!&lt;/h3&gt;Hope you like it!</description>
     <link>http://localhost:4000/ssafyHappy/</link>
     <atom:link href="http://localhost:4000/ssafyHappy/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Dec 2018 14:33:26 +0900</pubDate>
-    <lastBuildDate>Mon, 31 Dec 2018 14:33:26 +0900</lastBuildDate>
+    <pubDate>Mon, 31 Dec 2018 17:39:52 +0900</pubDate>
+    <lastBuildDate>Mon, 31 Dec 2018 17:39:52 +0900</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
-        <title>[ 2018  12  27 TEAM SSAFY.HAPPY ] TEAM SSAFY.HAPPY</title>
+        <title>TEAM SSAFY.HAPPY GITFITCH</title>
         <description>&lt;h1 id=&quot;10반_gitfitch&quot;&gt;&lt;strong&gt;10반_GITFITCH&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;[https://gitpitch.com/J1STAR/SEOUL-SSAFY-SSAFYHAPPY]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://gitpitch.com/J1STAR/ssafyHappy&quot;&gt;TEAM - SSAFY.HAPPY&lt;/a&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Fri, 28 Dec 2018 17:09:00 +0900</pubDate>
-        <link>http://localhost:4000/ssafyHappy/macos/terminal/github/jekyll/markdown/2018/12/28/SSAFYHAPPY_GITFITCH.html</link>
-        <guid isPermaLink="true">http://localhost:4000/ssafyHappy/macos/terminal/github/jekyll/markdown/2018/12/28/SSAFYHAPPY_GITFITCH.html</guid>
+        <link>http://localhost:4000/ssafyHappy/macos/terminal/github/jekyll/markdown/2018/12/28/TEAM-SSAFY.HAPPY.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ssafyHappy/macos/terminal/github/jekyll/markdown/2018/12/28/TEAM-SSAFY.HAPPY.html</guid>
         
         
         <category>MacOS</category>
@@ -32,7 +33,7 @@
       </item>
     
       <item>
-        <title>[ 2018  12  27 SLACK CHATBOT ]  Slack Bot과 얼굴인식을 이용한 사용자 출결 챗봇 설계</title>
+        <title>Slack Bot과 얼굴인식을 이용한 사용자 출결 챗봇 설계</title>
         <description>&lt;h1 id=&quot;slack-bot과-얼굴인식을-이용한-사용자-출결-챗봇&quot;&gt;Slack Bot과 얼굴인식을 이용한 사용자 출결 챗봇&lt;/h1&gt;
 
 &lt;h1 id=&quot;face-classfication-chatbot&quot;&gt;Face Classfication Chatbot&lt;/h1&gt;
@@ -266,7 +267,7 @@
     
       <item>
         <title>[ Day 1 ] 파이썬 레벨 테스트</title>
-        <description>&lt;p&gt;[1번] print()를 이용해 엘리스 토끼가 들리도록 인사&lt;/p&gt;
+        <description>&lt;p&gt;##[1번] print()를 이용해 엘리스 토끼가 들리도록 인사&lt;/p&gt;
 
 &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# 문자열 출력&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello Rabbit!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
@@ -274,7 +275,8 @@
 &lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;[2번] 사칙 연산을 이용해 숫자 세기&lt;/p&gt;
+&lt;p&gt;##[2번] 사칙 연산을 이용해 숫자 세기&lt;/p&gt;
+
 &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# 변수에 숫자 저장&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;
@@ -288,7 +290,8 @@
 &lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;[3번] 거꾸로 숫자 세기&lt;/p&gt;
+&lt;p&gt;##[3번] 거꾸로 숫자 세기&lt;/p&gt;
+
 &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;#for, range 사용&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;count&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;
 
@@ -300,8 +303,9 @@
 &lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;[4번] 임의의 문자열 입력 시, 문자열 길이만큼 “개굴” 출력
+&lt;p&gt;##[4번] 임의의 문자열 입력 시, 문자열 길이만큼 “개굴” 출력
 • 나의 풀이&lt;/p&gt;
+
 &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
 
 &lt;span class=&quot;c&quot;&gt;# len() 함수를 통해 문자열의 총 길이를 계산, 문자열의 길이만큼 for문 실행&lt;/span&gt;
@@ -333,7 +337,8 @@
 &lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;[5번]  발판의 숫자가 담긴 배열 steps가 주어졌을 때, 토끼가 뛰어야 할 횟수를 반환하는 함수 crossBridge()  완성하기&lt;/p&gt;
+&lt;p&gt;##[5번]  발판의 숫자가 담긴 배열 steps가 주어졌을 때, 토끼가 뛰어야 할 횟수를 반환하는 함수 crossBridge()  완성하기&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;각 발판에는 자연수가 입력되어 있다.&lt;/li&gt;
   &lt;li&gt;발판을 밟았을 경우, 자연수가 적힌만큼 발판을 이동해야한다.&lt;/li&gt;
@@ -368,7 +373,8 @@ n                   : 총 발판의 수
 &lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;[6번] 리스트에 담긴 문자열 중 ‘F’로 시작하는 값을 반환하는 함수 isPrince() 완성하기&lt;/p&gt;
+&lt;p&gt;##[6번] 리스트에 담긴 문자열 중 ‘F’로 시작하는 값을 반환하는 함수 isPrince() 완성하기&lt;/p&gt;
+
 &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# 문자열 리스트에서 첫 글자가 F인 문자열을 반환하는 함수&lt;/span&gt;
 
 &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;isPrince&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;frogList&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
@@ -388,7 +394,8 @@ n                   : 총 발판의 수
 &lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;[7번] 토끼와 거북이가 같은 타이밍에 쉬는 시간 구하기&lt;/p&gt;
+&lt;p&gt;##[7번] 토끼와 거북이가 같은 타이밍에 쉬는 시간 구하기&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;토끼의 휴식시간 N, 거북이의 휴식시간 M&lt;/li&gt;
   &lt;li&gt;토끼와 거북이가 동시에 휴식하는 최초의 시간 구하기&lt;/li&gt;
@@ -423,7 +430,8 @@ n                   : 총 발판의 수
 &lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;[8번] 별의 거리에 따라 달라지는 별들 출력하기&lt;/p&gt;
+&lt;p&gt;##[8번] 별의 거리에 따라 달라지는 별들 출력하기&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;별들 사이의 거리 i&lt;/li&gt;
   &lt;li&gt;별들 사이의 거리가 짝수인 경우, 2행의 두별 사이의 거리는 i - 1&lt;/li&gt;
@@ -496,8 +504,9 @@ n : 6, d : 6 ( n-1/2 : 2, n/2 : 3, n&lt;/span&gt;&lt;span class=&quot;si&quot;&g
 &lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;[10번] Rectangle, Square 클래스 정의하기
+&lt;p&gt;##[10번] Rectangle, Square 클래스 정의하기
 • Rectangle 클래스&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;생성자 매개 변수 2개 ( width, height )&lt;/li&gt;
   &lt;li&gt;면적을 구하는 area() 함수 정의
@@ -562,27 +571,28 @@ def area(self):
     
       <item>
         <title>How to Post Jekyll Blog</title>
-        <description>&lt;h1 id=&quot;1-로컬-블로그-저장소-이동&quot;&gt;1. 로컬 블로그 저장소 이동&lt;/h1&gt;
+        <description>&lt;h2 id=&quot;1-로컬-블로그-저장소-이동&quot;&gt;1. 로컬 블로그 저장소 이동&lt;/h2&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;janghanbyeol-ui-MacBook-Pro:~ j1star$ cd j1star.github.io/ &amp;lt;br/&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h1 id=&quot;2-사이트-로컬-서버-실행&quot;&gt;2. 사이트 로컬 서버 실행&lt;/h1&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;jekyll serve &amp;lt;br/&amp;gt;
+&lt;h2 id=&quot;2-사이트-로컬-서버-실행-및-종료&quot;&gt;2. 사이트 로컬 서버 실행 및 종료&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;jekyll serve
+CMD + C &amp;lt;br/&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h1 id=&quot;3-git-활성화&quot;&gt;3. git 활성화&lt;/h1&gt;
+&lt;h2 id=&quot;3-git-활성화&quot;&gt;3. git 활성화&lt;/h2&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git init &amp;lt;br/&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h1 id=&quot;4-로컬-블로그-저장소-git-staging-상태-전환&quot;&gt;4. 로컬 블로그 저장소 git staging 상태 전환&lt;/h1&gt;
+&lt;h2 id=&quot;4-로컬-블로그-저장소-git-staging-상태-전환&quot;&gt;4. 로컬 블로그 저장소 git staging 상태 전환&lt;/h2&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git add . &amp;lt;br/&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h1 id=&quot;5-commit-message-작성&quot;&gt;5. Commit Message 작성&lt;/h1&gt;
+&lt;h2 id=&quot;5-commit-message-작성&quot;&gt;5. Commit Message 작성&lt;/h2&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git commit -m &quot;write commit message&quot; &amp;lt;br/&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h1 id=&quot;6-github-파일-업로드&quot;&gt;6. github 파일 업로드&lt;/h1&gt;
+&lt;h2 id=&quot;6-github-파일-업로드&quot;&gt;6. github 파일 업로드&lt;/h2&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git push -u origin master
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
