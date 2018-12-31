@@ -3,6 +3,7 @@ layout: post
 title:  "Slack Bot과 얼굴인식을 이용한 사용자 출결 챗봇 설계"
 date:   2018-12-27 17:18:00 +0900
 categories: ["MacOS","Terminal","github","Jekyll","Markdown"]
+author: "J1STAR"
 ---
 
 # Slack Bot과 얼굴인식을 이용한 사용자 출결 챗봇 

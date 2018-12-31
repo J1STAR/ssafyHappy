@@ -18,8 +18,8 @@ layout: default
 	  {% when "Saturday" %}토요일
 	  {% when "Sunday" %}일요일
 	{% endcase %}  
-        </time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-      
+        </time><br />
+	{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
     </div>
 
 </div>
