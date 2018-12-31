@@ -5,8 +5,8 @@
     <description>&lt;h3&gt;Hello, SSAFY!&lt;/h3&gt;&lt;h1&gt;SSAFY.HAPPY DevJournal&lt;/h1&gt;&lt;h3&gt;Awesome TEAM SSAFY.HAPPY Post for Developers!&lt;/h3&gt;Hope you like it!</description>
     <link>http://localhost:4000/ssafyHappy/</link>
     <atom:link href="http://localhost:4000/ssafyHappy/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Dec 2018 19:35:04 +0900</pubDate>
-    <lastBuildDate>Mon, 31 Dec 2018 19:35:04 +0900</lastBuildDate>
+    <pubDate>Mon, 31 Dec 2018 21:54:54 +0900</pubDate>
+    <lastBuildDate>Mon, 31 Dec 2018 21:54:54 +0900</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -272,9 +272,9 @@
 &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# 문자열 출력&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello Rabbit!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;hr /&gt;
 &lt;h2 id=&quot;2번-사칙-연산을-이용해-숫자-세기&quot;&gt;[2번] 사칙 연산을 이용해 숫자 세기&lt;/h2&gt;
 
 &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# 변수에 숫자 저장&lt;/span&gt;
@@ -287,9 +287,9 @@
 &lt;span class=&quot;n&quot;&gt;my_mul&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;my_div&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;hr /&gt;
 &lt;h2 id=&quot;3번-거꾸로-숫자-세기&quot;&gt;[3번] 거꾸로 숫자 세기&lt;/h2&gt;
 
 &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;#for, range 사용&lt;/span&gt;
@@ -300,9 +300,9 @@
 &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
 	&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;현재 숫자:&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;count&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;hr /&gt;
 &lt;h2 id=&quot;4번-임의의-문자열-입력-시-문자열-길이만큼-개굴-출력&quot;&gt;[4번] 임의의 문자열 입력 시, 문자열 길이만큼 “개굴” 출력&lt;/h2&gt;
 &lt;p&gt;• 나의 풀이&lt;/p&gt;
 
@@ -334,9 +334,9 @@
 &lt;span class=&quot;c&quot;&gt;# 리스트에 저장된 문자열들을 &quot; &quot;(빈칸)으로 이어붙여 출력&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;' '&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;frog_list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;hr /&gt;
 &lt;h2 id=&quot;5번--발판의-숫자가-담긴-배열-steps가-주어졌을-때-토끼가-뛰어야-할-횟수를-반환하는-함수-crossbridge--완성하기&quot;&gt;[5번]  발판의 숫자가 담긴 배열 steps가 주어졌을 때, 토끼가 뛰어야 할 횟수를 반환하는 함수 crossBridge()  완성하기&lt;/h2&gt;
 
 &lt;ol&gt;
@@ -370,9 +370,9 @@ n                   : 총 발판의 수
 
 &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;crossBridge&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]))&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;hr /&gt;
 &lt;h2 id=&quot;6번-리스트에-담긴-문자열-중-f로-시작하는-값을-반환하는-함수-isprince-완성하기&quot;&gt;[6번] 리스트에 담긴 문자열 중 ‘F’로 시작하는 값을 반환하는 함수 isPrince() 완성하기&lt;/h2&gt;
 
 &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# 문자열 리스트에서 첫 글자가 F인 문자열을 반환하는 함수&lt;/span&gt;
@@ -391,9 +391,9 @@ n                   : 총 발판의 수
 
 &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;isPrince&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Alice'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Bob'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Frog'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]))&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;hr /&gt;
 &lt;h2 id=&quot;7번-토끼와-거북이가-같은-타이밍에-쉬는-시간-구하기&quot;&gt;[7번] 토끼와 거북이가 같은 타이밍에 쉬는 시간 구하기&lt;/h2&gt;
 
 &lt;ol&gt;
@@ -427,9 +427,9 @@ n                   : 총 발판의 수
 
 &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lcm&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rabbit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;turtle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))))&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;hr /&gt;
 &lt;h2 id=&quot;8번-별의-거리에-따라-달라지는-별들-출력하기&quot;&gt;[8번] 별의 거리에 따라 달라지는 별들 출력하기&lt;/h2&gt;
 
 &lt;ol&gt;
@@ -501,9 +501,9 @@ n : 6, d : 6 ( n-1/2 : 2, n/2 : 3, n&lt;/span&gt;&lt;span class=&quot;si&quot;&g
 
 &lt;span class=&quot;n&quot;&gt;printStars&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;distance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;hr /&gt;
 &lt;h2 id=&quot;10번-rectangle-square-클래스-정의하기&quot;&gt;[10번] Rectangle, Square 클래스 정의하기&lt;/h2&gt;
 &lt;p&gt;• Rectangle 클래스&lt;/p&gt;
 
@@ -571,30 +571,82 @@ def area(self):
     
       <item>
         <title>How to Post Jekyll Blog</title>
-        <description>&lt;h2 id=&quot;1-로컬-블로그-저장소-이동&quot;&gt;1. 로컬 블로그 저장소 이동&lt;/h2&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;janghanbyeol-ui-MacBook-Pro:~ j1star$ cd j1star.github.io/ &amp;lt;br/&amp;gt;
+        <description>&lt;h2 id=&quot;github-원격-저장소-내-post-위치-및-post-리스트&quot;&gt;github 원격 저장소 내 post 위치 및 post 리스트&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/ssafyHappy/assets/2018-12-31/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202018-12-31%20%EC%98%A4%ED%9B%84%208.18.01.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/ssafyHappy/assets/2018-12-31/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202018-12-31%20%EC%98%A4%ED%9B%84%208.18.40.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;_posts내 작성되어 있는 post들의 파일명과는 메인 및 상세보기에서 표시되는 제목과는 상관없음.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;0-post-page-준비--파일명md-&quot;&gt;0. Post Page 준비 ( 파일명.md )&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;​```
+layout: post
+title:  &quot;How to Post Jekyll Blog&quot;
+date:   2017-11-28 19:45:31 +0900
+categories: [&quot;MacOS&quot;, &quot;Terminal&quot;, &quot;github&quot;, &quot;Jekyll&quot;, &quot;Markdown&quot;]
+author: &quot;J1STAR&quot;
+​```
+
+~~~ Markdown 문법으로 작성된 내용 ~~~
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;2-사이트-로컬-서버-실행-및-종료&quot;&gt;2. 사이트 로컬 서버 실행 및 종료&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;post page 최상단 post info 작성 : ``` 내부에 작성 ```&lt;br /&gt;
+    &lt;h2 id=&quot;--apastrophe--숫자-1-왼쪽-자판--내부에-작성해야-함&quot;&gt;``` ( apastrophe : 숫자 1 왼쪽 자판 ) 내부에 작성해야 함.&lt;br /&gt;&lt;/h2&gt;
+    &lt;h2 id=&quot;--quote--enter-왼쪽-자판-이-아님&quot;&gt;’’’ ( quote : Enter 왼쪽 자판 )이 아님.&lt;br /&gt;&lt;/h2&gt;
+  &lt;/li&gt;
+  &lt;li&gt;layout : post&lt;/li&gt;
+  &lt;li&gt;title : https://j1star.github.io/ssafyHappy 메인 페이지 및 포스트 상세보기에서 표시될 제목 작성&lt;/li&gt;
+  &lt;li&gt;date : 작성일 YYYY-MM-DD HH:MM:SS +0900의 형태로 직접 작성&lt;/li&gt;
+  &lt;li&gt;categories : [“Category1”, “Category2”, …] : 리스트의 형태로 작성된 카테고리 목록 작성&lt;/li&gt;
+  &lt;li&gt;author : 이 포스트를 작성한 작성자&lt;/li&gt;
+  &lt;li&gt;post info에서 한 줄 띄어쓰고 밑에 Markdown 문법으로 내용을 작성&lt;/li&gt;
+  &lt;li&gt;작성된 post를 clone된 저장소의 _posts 폴더에 저장&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;1-github-원격-저장소-clone&quot;&gt;1. github 원격 저장소 clone&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;janghanbyeol-ui-Macbook-Pro:~ j1star$ cd ssafyHappy
+janghanbyeol-ui-MacBook-Pro:~ j1star$ git clone https://github.com/J1STAR/ssafyHappy.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2-사이트-로컬-서버-실행-및-종료&quot;&gt;&lt;del&gt;2. 사이트 로컬 서버 실행 및 종료&lt;/del&gt;&lt;/h2&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;jekyll serve
-CMD + C &amp;lt;br/&amp;gt;
+CMD + C
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3-git-저장소-초기화&quot;&gt;3. git 저장소 초기화&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git init
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4-변경된-모든-사항을-stage-상태로-전환&quot;&gt;4. 변경된 모든 사항을 stage 상태로 전환&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git add .
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5-commit--commit-message-작성&quot;&gt;5. Commit &amp;amp; Commit message 작성&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git commit -m &quot;write commit message&quot;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;3-git-활성화&quot;&gt;3. git 활성화&lt;/h2&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git init &amp;lt;br/&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h4 id=&quot;만약-commit-전-다른-사람이-원격-저장소에-push-해놓은-상태일-경우&quot;&gt;만약 commit 전 다른 사람이 원격 저장소에 push 해놓은 상태일 경우,&lt;/h4&gt;
+&lt;h4 id=&quot;git-pull을-먼저-실행하여-최신-repo인-상태로-반영-후-commit-후-push-하여야-함&quot;&gt;git pull을 먼저 실행하여 최신 repo인 상태로 반영 후, commit 후 push 하여야 함.&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;4-로컬-블로그-저장소-git-staging-상태-전환&quot;&gt;4. 로컬 블로그 저장소 git staging 상태 전환&lt;/h2&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git add . &amp;lt;br/&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;5-commit-message-작성&quot;&gt;5. Commit Message 작성&lt;/h2&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git commit -m &quot;write commit message&quot; &amp;lt;br/&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;6-github-파일-업로드&quot;&gt;6. github 파일 업로드&lt;/h2&gt;
+&lt;h2 id=&quot;6-github-remote-저장소로-파일-업로드&quot;&gt;6. github remote 저장소로 파일 업로드&lt;/h2&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git push -u origin master
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 28 Nov 2017 19:45:31 +0900</pubDate>
         <link>http://localhost:4000/ssafyHappy/macos/terminal/github/jekyll/markdown/2017/11/28/Jekyll-%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3-%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5.html</link>

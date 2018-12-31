@@ -34,7 +34,7 @@
   
 
   <title>How to Post Jekyll Blog</title>
-  <meta name="description" content="1. 로컬 블로그 저장소 이동janghanbyeol-ui-MacBook-Pro:~ j1star$ cd j1star.github.io/ &lt;br/&gt;">
+  <meta name="description" content="github 원격 저장소 내 post 위치 및 post 리스트">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="/ssafyHappy/css/main.css">
@@ -147,34 +147,160 @@
 </div>
 
 
-  <div class="post-content container" itemprop="articleBody">
-    <h2 id="1-로컬-블로그-저장소-이동">1. 로컬 블로그 저장소 이동</h2>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>janghanbyeol-ui-MacBook-Pro:~ j1star$ cd j1star.github.io/ &lt;br/&gt;
+<div class="post-content container" itemprop="articleBody">
+  <h2 id="github-원격-저장소-내-post-위치-및-post-리스트">github 원격 저장소 내 post 위치 및 post 리스트</h2>
+
+<p><img src="http://localhost:4000/ssafyHappy/assets/2018-12-31/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202018-12-31%20%EC%98%A4%ED%9B%84%208.18.01.png" alt="" /></p>
+
+<p><img src="http://localhost:4000/ssafyHappy/assets/2018-12-31/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202018-12-31%20%EC%98%A4%ED%9B%84%208.18.40.png" alt="" /></p>
+
+<p>_posts내 작성되어 있는 post들의 파일명과는 메인 및 상세보기에서 표시되는 제목과는 상관없음.</p>
+
+<p><br /></p>
+
+<p><br /></p>
+
+<h2 id="0-post-page-준비--파일명md-">0. Post Page 준비 ( 파일명.md )</h2>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>​```
+layout: post
+title:  "How to Post Jekyll Blog"
+date:   2017-11-28 19:45:31 +0900
+categories: ["MacOS", "Terminal", "github", "Jekyll", "Markdown"]
+author: "J1STAR"
+​```
+
+~~~ Markdown 문법으로 작성된 내용 ~~~
 </code></pre></div></div>
 
-<h2 id="2-사이트-로컬-서버-실행-및-종료">2. 사이트 로컬 서버 실행 및 종료</h2>
+<ol>
+  <li>post page 최상단 post info 작성 : ``` 내부에 작성 ```<br />
+    <h2 id="--apastrophe--숫자-1-왼쪽-자판--내부에-작성해야-함">``` ( apastrophe : 숫자 1 왼쪽 자판 ) 내부에 작성해야 함.<br /></h2>
+    <h2 id="--quote--enter-왼쪽-자판-이-아님">’’’ ( quote : Enter 왼쪽 자판 )이 아님.<br /></h2>
+  </li>
+  <li>layout : post</li>
+  <li>title : https://j1star.github.io/ssafyHappy 메인 페이지 및 포스트 상세보기에서 표시될 제목 작성</li>
+  <li>date : 작성일 YYYY-MM-DD HH:MM:SS +0900의 형태로 직접 작성</li>
+  <li>categories : [“Category1”, “Category2”, …] : 리스트의 형태로 작성된 카테고리 목록 작성</li>
+  <li>author : 이 포스트를 작성한 작성자</li>
+  <li>post info에서 한 줄 띄어쓰고 밑에 Markdown 문법으로 내용을 작성</li>
+  <li>작성된 post를 clone된 저장소의 _posts 폴더에 저장</li>
+</ol>
+
+<p><br /><br /></p>
+
+<h2 id="1-github-원격-저장소-clone">1. github 원격 저장소 clone</h2>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>janghanbyeol-ui-Macbook-Pro:~ j1star$ cd ssafyHappy
+janghanbyeol-ui-MacBook-Pro:~ j1star$ git clone https://github.com/J1STAR/ssafyHappy.git
+</code></pre></div></div>
+<p><br /><br /></p>
+
+<h2 id="2-사이트-로컬-서버-실행-및-종료"><del>2. 사이트 로컬 서버 실행 및 종료</del></h2>
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jekyll serve
-CMD + C &lt;br/&gt;
+CMD + C
+</code></pre></div></div>
+<p><br /><br /></p>
+
+<h2 id="3-git-저장소-초기화">3. git 저장소 초기화</h2>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git init
+</code></pre></div></div>
+<p><br /><br /></p>
+
+<h2 id="4-변경된-모든-사항을-stage-상태로-전환">4. 변경된 모든 사항을 stage 상태로 전환</h2>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add .
+</code></pre></div></div>
+<p><br /><br /></p>
+
+<h2 id="5-commit--commit-message-작성">5. Commit &amp; Commit message 작성</h2>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit -m "write commit message"
 </code></pre></div></div>
 
-<h2 id="3-git-활성화">3. git 활성화</h2>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git init &lt;br/&gt;
-</code></pre></div></div>
+<h4 id="만약-commit-전-다른-사람이-원격-저장소에-push-해놓은-상태일-경우">만약 commit 전 다른 사람이 원격 저장소에 push 해놓은 상태일 경우,</h4>
+<h4 id="git-pull을-먼저-실행하여-최신-repo인-상태로-반영-후-commit-후-push-하여야-함">git pull을 먼저 실행하여 최신 repo인 상태로 반영 후, commit 후 push 하여야 함.</h4>
+<p><br /><br /></p>
 
-<h2 id="4-로컬-블로그-저장소-git-staging-상태-전환">4. 로컬 블로그 저장소 git staging 상태 전환</h2>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add . &lt;br/&gt;
-</code></pre></div></div>
-
-<h2 id="5-commit-message-작성">5. Commit Message 작성</h2>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit -m "write commit message" &lt;br/&gt;
-</code></pre></div></div>
-
-<h2 id="6-github-파일-업로드">6. github 파일 업로드</h2>
+<h2 id="6-github-remote-저장소로-파일-업로드">6. github remote 저장소로 파일 업로드</h2>
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git push -u origin master
 </code></pre></div></div>
+<p><br /><br /></p>
 
-  </div>
+</div>
+  
 
+<div class="rect">
+
+  
+  
+  
+
+ 
+  
+
+   
+    
+    
+
+    
+
+    
+  
+
+   
+    
+    
+
+    
+
+    
+  
+
+   
+    
+    
+
+    
+
+    
+  
+
+   
+    
+    
+
+    
+
+    
+  
+
+   
+    
+    
+
+    
+
+    
+  
+
+   
+    
+    
+
+    
+
+    
+  
+
+   
+    
+    
+
+    
+
+    
+  
+</div>
+  
 </article>
 
 </section>
