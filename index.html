@@ -35,6 +35,7 @@ layout: default
 	  {% when "Saturday" %}토요일
 	  {% when "Sunday" %}일요일
 	{% endcase %}
+	{{ post.date | date: "%H.%M.%S" }}
       </span>
       <span class="in">
         #
