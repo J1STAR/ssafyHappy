@@ -268,12 +268,15 @@ code {
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
   margin: 0 auto;
-  text-align: center; }
+  text-align: center;
+  overflow: hidden;
+  vertical-align: middle; }
 
 .rel {
   width: 25%;
   display: inline-block;
-  opacity: 0.8; }
+  opacity: 0.8;
+  float: left; }
 
 .rel:hover {
   opacity: 1; }

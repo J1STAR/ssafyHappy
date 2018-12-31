@@ -204,12 +204,15 @@ $on-laptop:        800px;
     border-bottom: 3px solid #333;
     margin:0 auto;
     text-align: center;
+    overflow: hidden;
+    vertical-align: middle;
 }
 
 .rel {
     width: 25%;
     display: inline-block;
     opacity: 0.8;
+    float: left;
 }
 
 .rel:hover {
