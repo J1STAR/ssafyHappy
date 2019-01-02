@@ -1,6 +1,6 @@
 ---?image=assets/img/pencils.jpg @title[About Templates]
 
-@color[red]\(테스트22)
+@color[red]\(테스트32)
 @fa[arrow-down text-black]
 
 @snap[south docslink span-50] The Template Docs @snapend
