@@ -1,4 +1,4 @@
----?image=template/img/pencils.jpg @title[About Templates]
+---?image=assets/img/pencils.jpg @title[About Templates]
 
 @color[black](About
 Slide Templates)
