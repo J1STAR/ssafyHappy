@@ -1,6 +1,6 @@
 ---?image=assets/img/bg/pencils.jpg
 
-@color[red](테스트33)
+테스트33
 
 @fa[arrow-down text-black]
 
