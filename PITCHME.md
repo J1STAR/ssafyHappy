@@ -39,7 +39,7 @@ Lead Developer
 @snap[south text-06]
 @color[#4487F2](MinJae GO)
 <br><br>
-[@fa[github]gomj0207](https://github.com/gomj0207)
+[@fa[github]gomj0207](https://github.com/rhalswo1234)
 <br>
 Lead Developer
 @snapend
