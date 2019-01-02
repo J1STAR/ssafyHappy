@@ -16,9 +16,9 @@
 @fatwitter 
 Graphic Designer @snapend
 
-@snap[midpoint about-team-pic about-team-pic-center] ABBY @snapend
+@snap[midpoint about-team-pic about-team-pic-center] J1STAR @snapend
 
-@snap[south text-06] @color[#4487F2](Abby Bauer) 
+@snap[south text-06] @color[#4487F2](HanByul Jang) 
 
 @fagithub 
 Lead Developer @snapend
