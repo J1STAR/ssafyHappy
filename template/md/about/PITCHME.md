@@ -1,6 +1,6 @@
 ---?image=https://github.com/J1STAR/ssafyHappy/blob/master/assets/img/pencils.jpg?raw=true
 
-## @color[black](About<br>Slide Templates)
+## @color[red](About<br>Slide Templates)
 
 @fa[arrow-down text-black]
 
