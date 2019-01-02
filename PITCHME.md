@@ -6,7 +6,7 @@
 
 @snap[south docslink span-50] The Template Docs @snapend
 
-+++?image=assets/img/bg/pencils.jpg&color=white&position=top&size=100% 50% @title[Meet The Team]
++++?image=assets/img/bg/blue.jpg&color=white&position=top&size=100% 50% @title[Meet The Team]
 
 @snap[north text-white span-100] @size[1.5em](Meet The Team) @snapend
 
