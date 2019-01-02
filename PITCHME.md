@@ -1,11 +1,11 @@
-+++?image=template/img/bg/pencils.jpg @title[About Templates]
+---?image=template/img/bg/pencils.jpg @title[About Templates]
 
 @color[red](테스트32)
 @fa[arrow-down text-black]
 
 @snap[south docslink span-50] The Template Docs @snapend
 
-+++?image=template/img/bg/blue.jpg&color=white&position=top&size=100% 50% @title[Meet The Team]
++++?image=template/img/bg/pencils.jpg&color=white&position=top&size=100% 50% @title[Meet The Team]
 
 @snap[north text-white span-100] @size[1.5em](Meet The Team) @snapend
 
