@@ -1,4 +1,4 @@
----?https://github.com/J1STAR/ssafyHappy/blob/master/assets/img/pencils.jpg?raw=true @title[About Templates]
+---?image=assets/img/pencils.jpg @title[About Templates]
 
 @color[red]\(테스트22)
 @fa[arrow-down text-black]
