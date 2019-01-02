@@ -1,6 +1,6 @@
-+++?image=assets/img/bg/pencils.jpg
+---?image=assets/img/bg/pencils.jpg
 
-@color[red](테스트32)
+@color[red](테스트33)
 @fa[arrow-down text-black]
 
 @snap[south docslink span-50] The Template Docs @snapend
