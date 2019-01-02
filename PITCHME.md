@@ -1,8 +1,6 @@
 ---?image=assets/img/bg/pencils.jpg
-
 @color[red](테스트33)
 @fa[arrow-down text-black]
-
 @snap[south docslink span-50] The Template Docs @snapend
 
 +++?image=assets/img/bg/blue.jpg&color=white&position=top&size=100% 50% @title[Meet The Team]
