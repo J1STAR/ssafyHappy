@@ -13,7 +13,7 @@
 <br><br>
 [@fa[github]jeongws](https://github.com/jeongws)
 <br>
-팀장
+## 팀
 @snapend
 
 +++?image=assets/img/purple.jpg&size=100% 50%&position=top&color=white @title[Meet The Team]
@@ -27,7 +27,7 @@
 <br><br>
 [@fa[github]J1STAR](https://github.com/J1STAR)
 <br>
-팀원
+## 팀원
 @snapend
 
 +++?image=assets/img/purple.jpg&size=100% 50%&position=top&color=white @title[Meet The Team]
@@ -41,7 +41,7 @@
 <br><br>
 [@fa[github]gomj0207](https://github.com/rhalswo1234)
 <br>
-팀원
+## 팀원
 @snapend
 
 +++?image=assets/img/purple.jpg&size=100% 50%&position=top&color=white @title[Meet The Team]
@@ -55,5 +55,5 @@
 <br><br>
 [@fa[github]Hyun1225](https://github.com/Hyun1225)
 <br>
-Lead Developer
+## 팀원
 @snapend
