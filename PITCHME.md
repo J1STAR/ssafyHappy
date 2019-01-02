@@ -1,4 +1,4 @@
----?image=https://github.com/J1STAR/ssafyHappy/blob/master/assets/img/pencils.jpg?raw=true @title[About Templates]
+---?image="https://github.com/J1STAR/ssafyHappy/blob/master/assets/img/pencils.jpg?raw=true" @title[About Templates]
 
 @color[red]\(테스트)
 @fa[arrow-down text-black]
