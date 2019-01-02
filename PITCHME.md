@@ -1,6 +1,9 @@
 ---?image=assets/img/bg/pencils.jpg
+
 @color[red](테스트33)
+
 @fa[arrow-down text-black]
+
 @snap[south docslink span-50] The Template Docs @snapend
 
 +++?image=assets/img/bg/blue.jpg&color=white&position=top&size=100% 50% @title[Meet The Team]
@@ -12,6 +15,7 @@
 @snap[south-west text-06] @color[#4487F2](Wendy Sesay) 
 
 @fatwitter 
+
 Graphic Designer @snapend
 
 @snap[midpoint about-team-pic about-team-pic-center] J1STAR @snapend
@@ -19,6 +23,7 @@ Graphic Designer @snapend
 @snap[south text-06] @color[#4487F2](HanByul Jang) 
 
 @fagithub 
+
 Lead Developer @snapend
 
 @snap[east about-team-pic] BERRY @snapend
@@ -26,6 +31,7 @@ Lead Developer @snapend
 @snap[south-east text-06] @color[#4487F2](Berry Nguyen) 
 
 @falinkedin 
+
 Channel Marketing @snapend
 
 @snap[north-east template-note text-white] Team intro template. @snapend
