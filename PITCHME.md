@@ -1,6 +1,6 @@
 ---?image=assets/img/pencils.jpg
 
-TEAM SSAFY.HAPPY
+# TEAM SSAFY.HAPPY
 
 +++?image=assets/img/purple.jpg&size=100% 50%&position=top&color=white @title[Meet The Team]
 
