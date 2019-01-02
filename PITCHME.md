@@ -9,7 +9,7 @@
 +++?image=assets/img/purple.jpg&size=100% 50%&position=top&color=white @title[Meet The Team]
 
 @snap[midpoint about-team-pic about-team-pic-center]
-![WENDY](assets/img/wendy.jpg)
+![J1STAR](assets/img/j1star.jpeg)
 @snapend
 
 @snap[south text-06]
