@@ -5,9 +5,82 @@
     <description>&lt;h3&gt;Hello, SSAFY!&lt;/h3&gt;&lt;h1&gt;SSAFY.HAPPY DevJournal&lt;/h1&gt;&lt;h3&gt;Awesome TEAM SSAFY.HAPPY Post for Developers!&lt;/h3&gt;Hope you like it!</description>
     <link>http://localhost:4000/ssafyHappy/</link>
     <atom:link href="http://localhost:4000/ssafyHappy/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Jan 2019 00:58:17 +0900</pubDate>
-    <lastBuildDate>Tue, 01 Jan 2019 00:58:17 +0900</lastBuildDate>
+    <pubDate>Wed, 02 Jan 2019 21:34:15 +0900</pubDate>
+    <lastBuildDate>Wed, 02 Jan 2019 21:34:15 +0900</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>19/01/02] Daily Workshop 문제풀이</title>
+        <description>&lt;h1 id=&quot;1-1-오른쪽-위를-향한-화살표-모양으로-숫자-출력&quot;&gt;1-1. 오른쪽 위를 향한 화살표 모양으로 숫자 출력&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;결과 화면&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;첫 줄에 n개의 숫자 출력&lt;/li&gt;
+  &lt;li&gt;한 줄 내려갈 때마다 n-1개의 숫자 출력&lt;/li&gt;
+  &lt;li&gt;마지막 줄 1개의 숫자 출력&lt;/li&gt;
+  &lt;li&gt;모든 숫자는 우측으로 붙어있는 형태&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;소스코드&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/ssafyHappy/assets/2019-01-02/ws1sc.png&quot; alt=&quot;ws1sc&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Scanner를 통해 최대 사이즈를 유저에게 입력받음.&lt;/li&gt;
+  &lt;li&gt;유저가 입력한 size가 Integer 또는 0보다 작을 경우 다시 입력하도록 반복&lt;/li&gt;
+  &lt;li&gt;유저가 입력한 size만큼 n x n이 출력되도록 반복문 2번 실행&lt;/li&gt;
+  &lt;li&gt;j가 i보다 크거나 같은 경우, 숫자 출력&lt;/li&gt;
+  &lt;li&gt;j가 i보다 작을 경우 ‘tab’ 출력&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;설명&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/ssafyHappy/assets/2019-01-02/ws1sv.png&quot; alt=&quot;ws1sv&quot; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;문제에서 요구하는 출력 화면은 y = -x 그래프에서 빨간색 삼각형 모양으로 숫자를 출력하는 화면&lt;/li&gt;
+  &lt;li&gt;빨간색 삼각형에 해당하는 부분은 y &amp;gt;= -x (x + y &amp;gt;= 0과 같음)에 해당하는 부분&lt;/li&gt;
+  &lt;li&gt;결과화면에서는 아래로 갈수록 y가 커지는 모양이기 때문에 xy 좌표계에서 y = -y로 대치&lt;/li&gt;
+  &lt;li&gt;if( x - y &amp;gt;= 0 )일 경우에 숫자 출력, 아닐 경우 tab을 출력하여 빈 칸 출력&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;결과화면&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/ssafyHappy/assets/2019-01-02/ws1sv2.gif&quot; alt=&quot;ws1sv2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;1-2-모래시계-모양으로-숫자-출력&quot;&gt;1-2. 모래시계 모양으로 숫자 출력&lt;/h1&gt;
+
+&lt;h1 id=&quot;2-컴퓨터와-가위-바위-보&quot;&gt;2. 컴퓨터와 가위 바위 보&lt;/h1&gt;
+
+</description>
+        <pubDate>Wed, 02 Jan 2019 20:48:00 +0900</pubDate>
+        <link>http://localhost:4000/ssafyHappy/ssafy/workshop/java/2019/01/02/SSAFY-Daily-Workshop-%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ssafyHappy/ssafy/workshop/java/2019/01/02/SSAFY-Daily-Workshop-%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6.html</guid>
+        
+        
+        <category>SSAFY</category>
+        
+        <category>Workshop</category>
+        
+        <category>JAVA</category>
+        
+      </item>
     
       <item>
         <title>TEAM SSAFY.HAPPY GITFITCH</title>
@@ -16,8 +89,8 @@
 
 </description>
         <pubDate>Fri, 28 Dec 2018 17:09:00 +0900</pubDate>
-        <link>http://localhost:4000/ssafyHappy/macos/terminal/github/jekyll/markdown/2018/12/28/TEAM-SSAFY.HAPPY.html</link>
-        <guid isPermaLink="true">http://localhost:4000/ssafyHappy/macos/terminal/github/jekyll/markdown/2018/12/28/TEAM-SSAFY.HAPPY.html</guid>
+        <link>http://localhost:4000/ssafyHappy/macos/terminal/github/gitpitch/teamsh/jekyll/markdown/2018/12/28/TEAM-SSAFY.HAPPY.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ssafyHappy/macos/terminal/github/gitpitch/teamsh/jekyll/markdown/2018/12/28/TEAM-SSAFY.HAPPY.html</guid>
         
         
         <category>MacOS</category>
@@ -25,6 +98,10 @@
         <category>Terminal</category>
         
         <category>github</category>
+        
+        <category>GitPitch</category>
+        
+        <category>TeamSH</category>
         
         <category>Jekyll</category>
         
