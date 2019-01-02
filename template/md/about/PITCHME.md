@@ -1,4 +1,4 @@
----?image=https://github.com/J1STAR/ssafyHappy/blob/master/assets/img/pencils.jpg?raw=true
+---?assets/img/pencils.jpg
 @title[About Templates]
 
 ## @color[black](About<br>Slide Templates)
