@@ -25,7 +25,7 @@ Lead Developer
 @snap[south text-06]
 @color[#4487F2](HanByul Jang)
 <br><br>
-@fa[github][TEAM - SSAFY.HAPPY](https://gitpitch.com/J1STAR/ssafyHappy)
+[@fa[github]J1STAR](https://github.com/J1STAR)
 <br>
 Lead Developer
 @snapend
