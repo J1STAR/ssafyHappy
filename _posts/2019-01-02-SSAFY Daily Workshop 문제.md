@@ -19,7 +19,7 @@ author: "J1STAR"
 
 > 소스코드
 
-![ws1sc](/Users/j1star/Desktop/ssafyHappy/assets/2019-01-02/ws1sc.png)
+![ws1sc]({{site.url}}{{site.baseurl}}/assets/2019-01-02/ws1sc.png)
 
  	1. Scanner를 통해 최대 사이즈를 유저에게 입력받음.
  	2. 유저가 입력한 size가 Integer 또는 0보다 작을 경우 다시 입력하도록 반복
@@ -31,7 +31,7 @@ author: "J1STAR"
 
 > 설명
 
-![ws1sv](/Users/j1star/Desktop/ssafyHappy/assets/2019-01-02/ws1sv.png)
+![ws1sv]({{site.url}}{{site.baseurl}}/assets/2019-01-02/ws1sv.png)
 
 1. 문제에서 요구하는 출력 화면은 y = -x 그래프에서 빨간색 삼각형 모양으로 숫자를 출력하는 화면
 2. 빨간색 삼각형에 해당하는 부분은 y >= -x (x + y >= 0과 같음)에 해당하는 부분
@@ -42,7 +42,7 @@ author: "J1STAR"
 
 > 결과화면
 
-![ws1sv2](/Users/j1star/Desktop/ssafyHappy/assets/2019-01-02/ws1sv2.gif)
+![ws1sv2]({{site.url}}{{site.baseurl}}/assets/2019-01-02/ws1sv2.gif)
 
 <br><br>
 
