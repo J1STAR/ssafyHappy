@@ -1,4 +1,4 @@
----?image=assets/img/bg/pencils.jpg
++++?image=assets/img/bg/pencils.jpg
 
 @color[red](테스트32)
 @fa[arrow-down text-black]
