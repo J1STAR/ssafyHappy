@@ -18,7 +18,7 @@
 
 Graphic Designer @snapend
 
-@snap[midpoint about-team-pic about-team-pic-center] J1STAR @snapend
+@snap[midpoint about-team-pic about-team-pic-center] ![](assets/img/wendy.jpg) J1STAR @snapend
 
 @snap[south text-06] @color[#4487F2](HanByul Jang) 
 
