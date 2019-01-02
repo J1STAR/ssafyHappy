@@ -1,4 +1,4 @@
----?image=template/img/bg/pencils.jpg @title[About Templates]
++++?image=template/img/bg/pencils.jpg @title[About Templates]
 
 @color[red](테스트32)
 @fa[arrow-down text-black]
