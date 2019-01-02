@@ -1,7 +1,6 @@
 ---?image=https://github.com/J1STAR/ssafyHappy/blob/master/assets/img/pencils.jpg?raw=true @title[About Templates]
 
-@color[red](About
-Slide Templates)
+@color[red]\(테스트)
 @fa[arrow-down text-black]
 
 @snap[south docslink span-50] The Template Docs @snapend
