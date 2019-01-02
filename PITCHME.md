@@ -31,15 +31,3 @@ Lead Developer @snapend
 Channel Marketing @snapend
 
 @snap[north-east template-note text-white] Team intro template. @snapend
-
-+++?image=template/img/lovelace.jpg&position=right&size=42% 65% @title[Personal Biography]
-
-@snap[north-west bio-name] Ada Lovelace @snapend
-
-@snap[west text-08 span-60] A gifted mathematician. Born 1815. 
-
-Inspired by Babbage’s Analytical Engine she imagined the modern-day, general-purpose computer back in 1843.
-
-Ada is now recognized as the first computer programmer. @snapend
-
-@snap[south-west template-note text-gray] Simple biography template. @snapend
