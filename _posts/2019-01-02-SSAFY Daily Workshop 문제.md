@@ -119,6 +119,7 @@ author: "J1STAR"
 <br>
 
 > 결과화면
+
 ![ws2sv]({{site.url}}{{site.baseurl}}/assets/2019-01-02/ws2sv.gif)
 
 <br><br>
