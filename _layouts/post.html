@@ -30,8 +30,9 @@ layout: default
 
     <div class="post-content container" itemprop="articleBody">
         {{ content }}
+        {{ page.url }}
     </div>
-    {{page.url}}
+
     {{% if page.comments %}}
     <div id="disqus_thread"></div>
     <script>
