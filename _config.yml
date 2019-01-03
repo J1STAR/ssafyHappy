@@ -23,3 +23,5 @@ github_username:  J1STAR
 markdown: kramdown
 timezone: Asia/Seoul
 future: true
+
+disqus_shortname:

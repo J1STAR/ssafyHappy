@@ -4,6 +4,7 @@ title:  "19/01/02] Daily Workshop 문제풀이"
 date:   2019-01-02 20:48:00 +0900
 categories: ["SSAFY","Workshop","JAVA"]
 author: "J1STAR"
+comments: true
 ---
 
 # 1-1. 오른쪽 위를 향한 화살표 모양으로 숫자 출력
