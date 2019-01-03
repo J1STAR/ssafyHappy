@@ -228,7 +228,14 @@ $on-laptop:        800px;
     position: relative;
 }
 
-.post-content.container img {
-
+.post-content.container {
+    font-size: 3vw;
 }
 
+.post-content.container img {
+    max-width: 100%;
+}
+
+.post-content.container h1 {
+    font-size: 6vw;
+}
