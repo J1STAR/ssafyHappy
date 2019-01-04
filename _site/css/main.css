@@ -286,3 +286,6 @@ code {
 .post {
   display: block;
   position: relative; }
+
+.post-content.container img {
+  max-width: 100%; }
